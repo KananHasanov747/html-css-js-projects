@@ -1,0 +1,10 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "Simple Authentication form (Login/Signup/Logout/Remove)",
+  "main": "index.js",
+  "scripts": {},
+  "author": "KananHasanov747",
+  "license": "ISC",
+  "dependencies": {}
+}
